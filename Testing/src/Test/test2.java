@@ -1,10 +1,10 @@
 package Test;
 
-public class Sow_test {
+public class test2 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("geee");
+		System.out.println("gee76");
 
 	}
 
